@@ -1,3 +1,3 @@
 # ReverseSnakeChain
 A Blockchain Game 
-by only me
+by Silvio Ciavarrella, Valentino Ciavarrella, Bünjamin Balli
