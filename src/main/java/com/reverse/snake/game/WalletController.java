@@ -24,7 +24,7 @@ public class WalletController implements Initializable {
         Pane pane = loader.load();
         GameController gc = loader.getController();
         gc.setStage(stage);
-        stage.setScene(new Scene(pane));
+        stage.setScene(new Scene(pane, 1920, 1080));
     }
 
     @Override
